@@ -7,6 +7,7 @@ public class Main {
 
         int  boy=0;
         int  girl=0;
+        // insert text for the grating
         System.out.println("السلام عليكم ورحمه الله وبراكاته ");
         System.out.println("ازيكم يا طلاب المعهد  ");
         System.out.println("انا اخوكم عبدالله اريد عمل تطبيق لمساعدتكم في التقدم   ");
